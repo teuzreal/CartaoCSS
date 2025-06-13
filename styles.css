@@ -185,7 +185,7 @@ body {
 .circle#two {
   width: 80px;
   height: 80px;
-  top: 80%;
+  top: 85%;
   left: 80%;
   z-index: -1;
 }
